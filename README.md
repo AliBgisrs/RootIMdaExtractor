@@ -1,4 +1,6 @@
 # RootIMdaExtractor
+<img width="6000" height="4000" alt="97-2162_1_2_root" src="https://github.com/user-attachments/assets/bf00f18f-2295-400e-9973-f3ad61622d34" />
+
 
 # RootSegExtration
 
